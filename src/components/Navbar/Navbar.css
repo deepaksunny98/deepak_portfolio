@@ -21,6 +21,8 @@
 	cursor: pointer;
 	transition: 0.5s;
 	text-wrap: nowrap;
+	color: inherit;
+	text-decoration: none;
 }
 
 .nav-connect:hover {

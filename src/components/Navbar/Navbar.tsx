@@ -65,7 +65,14 @@ const Navbar = () => {
 					</li>
 				))}
 			</ul>
-			<div className='nav-connect'>Connect With Me</div>
+			<a
+				className='nav-connect'
+				href='https://www.linkedin.com/in/deepak-karanam-84b7ba319'
+				target='_blank'
+				rel='noopener noreferrer'
+			>
+				Connect With Me
+			</a>
 		</div>
 	);
 };
