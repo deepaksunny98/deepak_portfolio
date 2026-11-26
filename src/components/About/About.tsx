@@ -16,10 +16,12 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              I am an experienced Frontend Developer with over a decade of
-              professional expertise in the field. Throughout my career, I have
-              had the privilege of collaborating with prestigious organizations,
-              contributing to their success and growth.
+              I am a Frontend Developer with over 7 years of professional
+              experience, specializing in building responsive, user-friendly,
+              and scalable web applications. I have worked with leading
+              organizations like PayPal and Moneris, focusing on creating
+              reusable components, improving performance and delivering great
+              user experiences.
             </p>
             <p>
               My passion for frontend development is not only reflected in my
@@ -57,7 +59,7 @@ const About = () => {
       </div>
       <div className="about-achievements">
         <div className="about-achievement">
-          <h1>5+</h1>
+          <h1>7+</h1>
           <p>YEARS OF EXPERIENCE</p>
         </div>
         <hr />
