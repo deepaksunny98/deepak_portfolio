@@ -78,7 +78,7 @@ const Contact = () => {
 								src={call_icon}
 								alt=''
 							/>
-							<p>+1&nbsp;&nbsp;(226)-988-8452</p>
+							<p>+1 (647)-848-0068</p>
 						</div>
 						<div className='contact-detail'>
 							<img
