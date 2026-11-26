@@ -31,8 +31,15 @@ const Hero = () => {
         </span>
       </h2>
       <div className="hero-action">
-        <div className="hero-connect">Connect with me</div>
-        <div className="hero-resume">My resume</div>
+        <a
+          className="hero-connect"
+          href="https://www.linkedin.com/in/deepak-karanam-84b7ba319"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Connect with me
+        </a>
+        {/* <div className="hero-resume">My resume</div> */}
       </div>
     </div>
   );
